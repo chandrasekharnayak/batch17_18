@@ -194,7 +194,7 @@ intger num :- -inf to +inf --- complete == -900 ,9767,567,456 (int)
 decimal -- :- -inf to +inf --- . values = -900.0 -67.67, 65.7 (float)
 
 
-complex = Real +imaginary
+complex = Real +imag
 
 -25 -- root  -- i , j , k
 
@@ -202,6 +202,11 @@ boolen :- True   False
 
 
 string:- &*%&%^
+
+
+11111
+22222
+33333
 
 
 
