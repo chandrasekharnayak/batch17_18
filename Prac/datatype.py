@@ -7,7 +7,6 @@ range
 
 operator
 '''
-from reportlab.graphics.barcode.code128 import starta
 
 # st = 'fdfYGY4564^%$%'
 # print(type(st))
@@ -83,11 +82,33 @@ print(di)'''
 # b = 11
 # print(a is b)
 
-li = [10,20,30,40]
-print(100 in li)
+# li = [10,20,30,40]
+# print(100 in li)
+#
+#
+# condition and for
+#  7 and 8 ---- for and if  9-puja
+#
+#  10-- function ---
+
+# conditional , iterative , transfer stat
+
+#the number is pallindrom or not?
 
 
-condition and for
- 7 and 8 ---- for and if  9-puja
 
- 10-- function ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
